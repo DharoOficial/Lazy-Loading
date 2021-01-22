@@ -1,0 +1,13 @@
+
+article{
+    height: 300vh;
+    border: 3px dashed black;
+}
+.lazy-img{
+    border: 1px solid #ccc;
+    min-height: 200px;
+    min-width: 200px;
+    position: absolute;
+    top: 100vh;
+    left: 200px;
+}
